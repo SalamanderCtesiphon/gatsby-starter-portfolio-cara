@@ -11,7 +11,7 @@ const config: GatsbyConfig = {
     siteTitle: `Webdev Portfolio`,
     siteTitleAlt: `Webdev Portfolio`,
     siteHeadline: `Webdev Portfolio`,
-    siteUrl: `https://cara.lekoarts.de`,
+    siteUrl: `https://shimmering-axolotl-f2094f.netlify.app/e`,
     siteDescription: `Webdev Portfolio`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
