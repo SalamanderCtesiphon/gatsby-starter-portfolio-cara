@@ -12,7 +12,7 @@ const config: GatsbyConfig = {
     siteTitleAlt: `Webdev Portfolio`,
     siteHeadline: `Webdev Portfolio`,
     siteUrl: `https://cara.lekoarts.de`,
-    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteDescription: `Webdev Portfolio`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
     author: `@lekoarts_de`,
@@ -27,9 +27,9 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `web dev protfolio`,
+        short_name: `webdev`,
+        description: `Professional Portfolio`,
         start_url: `/`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website
